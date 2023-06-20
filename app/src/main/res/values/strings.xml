@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="my_balances">MY BALANCES</string>
+    <string name="_1000_00">1000.00</string>
+    <string name="eur">EUR</string>
+    <string name="currency_exchange">CURRENCY EXCHANGE</string>
+    <string name="sell">Sell</string>
+    <string name="input">0</string>
+    <string name="receive">Receive</string>
+    <string name="output">0</string>
+    <string name="submit">Submit</string>
+    <string name="low_balance">Balance is lower than input number, Please indicate the amount you have on the balance</string>
+    <string name="failed_conversion">Conversion Failed</string>
+    <string name="dialog_title">Currency Converted</string>
+    <string name="dialog_btn">Done</string>
+    <string name="same_currencies">Converting the same currencies is not possible</string>
+    <string name="invalid_amount">Not A valid amount</string>
+    <string name="success_tax_free">"You have converted %s %s to %s %s."</string>
+    <string name="success_tax">"You have converted %s %s to %s %s Commission Fee - %s %s"</string>
+    <string name="empty">""</string>
+    <string name="balance_selection">"Select Currency"</string>
+</resources>

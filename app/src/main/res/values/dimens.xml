@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="zero">0dp</dimen>
+    <dimen name="one">1dp</dimen>
+    <dimen name="two">2dp</dimen>
+    <dimen name="four">4dp</dimen>
+    <dimen name="six">6dp</dimen>
+    <dimen name="eight">8dp</dimen>
+    <dimen name="ten">10dp</dimen>
+    <dimen name="twelve">12dp</dimen>
+    <dimen name="fourteen">14dp</dimen>
+    <dimen name="sixteen">16dp</dimen>
+    <dimen name="spSixteen">16sp</dimen>
+    <dimen name="eighteen">18dp</dimen>
+    <dimen name="spEighteen">18dp</dimen>
+    <dimen name="twenty">20dp</dimen>
+    <dimen name="spTwenty">20sp</dimen>
+    <dimen name="twentyFour">24dp</dimen>
+    <dimen name="twentySix">26dp</dimen>
+    <dimen name="twentyEight">28dp</dimen>
+    <dimen name="thirty">30dp</dimen>
+    <dimen name="thirtyFour">34dp</dimen>
+    <dimen name="thirtyEight">38dp</dimen>
+    <dimen name="forty">40dp</dimen>
+    <dimen name="fortyFour">44dp</dimen>
+    <dimen name="fortyEight">48dp</dimen>
+    <dimen name="fifty">50dp</dimen>
+    <dimen name="sixty">60dp</dimen>
+    <dimen name="spFortyEight">48sp</dimen>
+    <dimen name="eightyFour">84dp</dimen>
+    <dimen name="hundred">110dp</dimen>
+    <dimen name="hundredTen">110dp</dimen>
+</resources>
